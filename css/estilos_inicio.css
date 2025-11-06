@@ -1,0 +1,426 @@
+@charset "utf-8";
+.bg-imagenpersonajes {
+    background-position: 17% 32%;
+    background-size: cover;
+    -webkit-box-shadow: 0 0px;
+    box-shadow: 0 0px;
+    background-image: url(../imagenes_juego/4%20PERSONAJES.jpg);
+}
+
+.cuadro_redondo_transparencia {
+    background-color: rgba(0,0,0,0.48);
+    border-radius: 50px;
+}
+.bg-estilogif {
+    margin-top: -36px;
+    padding-left: 0px;
+}
+.letras_logo_gif {
+    background-image: url(../imagenes_juego/Letraslogo_gif.gif);
+    background-size: 597px auto;
+
+
+}
+
+
+
+.bg-fondonegro {
+    background-color: #000000;
+}
+
+.bg-logopng {
+    background-image: url(../imagenes_juego/LOGO%20EL%20DIA%20DESPUES_Mesa%20de%20trabajo%201%20copia.png);
+    background-size: cover;
+    background-position: 1% center;
+}
+.bg-fondo_negro_transparencia {
+    background-color: rgba(0,0,0,0.69);
+    border-radius: 30px;
+}
+.bg-imagen1 {
+    background-image: url(../imagenes_juego/CONCEPTO%20DE%20ESCENARIO.jpg);
+    background-size: cover;
+}
+.texto_cuerpo {
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: comfortaa;
+    font-style: normal;
+    font-weight: 300;
+}
+.texto_cuerponegro {
+    color: #000000;
+    font-size: x-large;
+    font-family: comfortaa;
+    font-style: normal;
+    font-weight: 300;
+}
+.navbar_texto {
+    font-family: comfortaa;
+    font-style: normal;
+    font-weight: 300;
+}
+
+.subtitulo_negro {
+    color: #000000;
+    font-size: 39px;
+    font-family: comfortaa;
+    font-style: normal;
+    font-weight: 700;
+}
+.subtitulos_nombres {
+    color: #FFFFFF;
+    font-family: comfortaa;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+}
+
+.bg-logojardin {
+    background-image: url(../images/Logos/Logos/Jardin-Botanico-de-Bogota-nw.png);
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    padding-bottom: 36px;
+    background-size: cover;
+}
+
+
+
+.bg-blacky {
+    background-color: #F29F05;
+}
+.imagen_blacky {
+    background-image: url(../imagenes_juego/blacky.png);
+    background-size: 476px auto;
+    background-position: 37% 14%;
+    background-repeat: no-repeat;
+}
+.bg-luke {
+    background-color: #CC084E;
+}
+.imagen_luke {
+    background-image: url(../imagenes_juego/Luke.png);
+    background-size: 425px auto;
+    background-position: 40% 16%;
+    background-repeat: no-repeat;
+}
+.bg-minnie {
+    background-color: #005A5E;
+}
+.imagen_minnie {
+    background-image: url(../imagenes_juego/red%20panda.png);
+    background-size: 475px auto;
+    background-position: 34% 24%;
+    background-repeat: no-repeat;
+}
+.imagen_tokksentado {
+    background-image: url(../imagenes_juego/tokk%20sentado.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.bg_imagenpersonajes {
+    background-image: url(../imagenes_juego/Il%20meme_page-0001.jpg);
+    background-size: cover;
+    background-position: 0% 43%;
+}
+.bg-imagenultima {
+    background-image: url(../imagenes_juego/KEY%20VISUAL%204K.png);
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+.bg-ajustado {
+    padding-top: 29px;
+}
+.bg-imagen2 {
+    background-image: url(../imagenes_juego/CONCEPTO%20DE%20JUEGO.jpg);
+    border-radius: 0px;
+    padding-top: 79px;
+    padding-right: 79px;
+    padding-bottom: 79px;
+    background-size: cover;
+    background-position: 42% 98%;
+}
+.bg-imagen3 {
+    background-image: url(
+../imagenes_juego/background1%20(2).jpg);
+    background-size: cover;
+    background-image: url(../imagenes_juego/imagen%20fondo.jpg);
+    background-position: 0% 31%;
+}
+.bg-logoonyx {
+    background-size: cover;
+    background-image: url(../imagenes_juego/ONYX%20STUDIO%20negro.png);
+    background-position: 8% 48%;
+}
+.subtitulos {
+    color: rgba(255,255,255,1.00);
+    font-size: 101px;
+}
+.subtitulos_carrusel {
+    color: rgba(255,255,255,1.00);
+    font-size: 27px;
+}
+.imagen_tokk {
+    background-image: url(../imagenes_juego/Tokk.png);
+    background-size: 510px auto;
+    padding-bottom: 38px;
+    margin-bottom: 0px;
+    background-position: 44% 5%;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-repeat: no-repeat;
+}
+.bg-botonminnie {
+    background-color: #CC084E;
+    border-radius: 48px;
+}
+.bg-botontokk {
+    background-color: #F7B305;
+    border-radius: 48px;
+}
+
+.minnie_sentada {
+    background-image: url(../imagenes_juego/minnie%20sentada.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0% 21%;
+}
+
+
+
+
+.bg-tokk {
+    background-color: #358C57;
+}
+.subtitulos_blanco {
+    font-family: comfortaa;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    color: #FFFFFF;
+}
+
+.subtituloscuerpo {
+    color: #FFFFFF;
+    font-size: 70px;
+    font-family: concert-one;
+    font-style: normal;
+    font-weight: 400;
+}
+.imagen_jardin {
+    background-image: url(../imagenes_juego/PALMERAS%20JARDIN%20BOTANICO.jpg);
+    background-size: cover;
+    background-position: 0% 87%;
+}
+.imagen_jardin2 {
+    background-size: cover;
+    background-image: url(../images/Jardin-botanico-de-Bogota.jpg);
+}
+.imagen_jardin3 {
+    background-size: cover;
+    background-image: url(../imagenes_juego/minnie_gif.gif);
+    background-position: -16% 22%;
+}
+
+.bg-jardinalianzas {
+    background-image: url(../imagenes_juego/1.jpg);
+    background-size: cover;
+}
+.bg-fondoazul {
+    background-image: url(../imagenes_juego/fondo%20cupula.jpg);
+    background-size: cover;
+}
+.bg-arbolfondo {
+    background-image: url(../imagenes_juego/tree%20base.jpg);
+    background-position: 97% 76%;
+}
+.bg-fondo_blanco_transparencia {
+    background-color: rgba(255,255,255,0.25);
+    border-radius: 32px;
+}
+.bg-violeta {
+    background-color: #340065;
+    border-radius: 48px;
+}
+.bg-rojo {
+    background-color: #D22020;
+}
+.bg-amarillo {
+    background-color: #F7B305;
+}
+.imagen_lukesentado {
+    background-image: url(../imagenes_juego/luke%20sentado.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.bg-botonluke {
+    background-color: #D22020;
+    border-radius: 48px;
+}
+
+
+.bg-gris {
+    background-color: #2C2C2C;
+}
+.bg-magenta {
+    background-color: #CC084E;
+}
+.bg-naranja {
+    background-color: #FF5900;
+    border-radius: 28px;
+}
+.bg-fondo_pingu {
+    background-image: url(../imagenes_juego/pingu.png);
+    background-size: contain;
+    background-position: 83% 0%;
+    background-repeat: no-repeat;
+}
+.letra_footer {
+    color: #FFFFFF;
+    font-family: comfortaa;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+}
+.blackimagen {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(../imagenes_juego/blacky%20sentado.png);
+}
+.subtitulos-ultimaslide {
+    color: #FFFFFF;
+    font-family: comfortaa;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+}
+.subtitulo_blancogrande {
+    font-family: comfortaa;
+    font-style: normal;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-size: 40px;
+}
+.subtitulo-blanco-derechagrande {
+    font-family: comfortaa;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: right;
+}
+
+.bg-blackyfondo {
+    background-position: 0 46%;
+    background-size: cover;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    background-image: url(
+../imagenes_juego/EDD%20Blacky%20Stage%20(3).png);
+    -webkit-box-shadow: 0px -2px 143px 0px #1D1D1D;
+    box-shadow: 0px -2px 143px 0px #1D1D1D;
+    background-image: url(../imagenes_juego/BlackyBG.png);
+    opacity: 1;
+    text-shadow: 2px 3px 4px #000000;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: medium;
+}
+.subtitulos-blanco-grande {
+    font-family: comfortaa;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+}
+.bg-tokkfondo {
+    background-image: url(../imagenes_juego/El%20D%C3%ADa%20Despues%20tokk%20Stage.png);
+    color: #FFFFFF;
+    text-shadow: 0px 0px #000000;
+    background-size: cover;
+}
+.bg-lukefondo {
+    background-image: url(../imagenes_juego/El%20D%C3%ADa%20Despues%20Luke%20Stage.png);
+    background-size: cover;
+    color: #FFFFFF;
+    text-shadow: 1px 2px 4px #000000;
+    opacity: 1;
+    -webkit-box-shadow: 0px 0px 0px;
+    box-shadow: 0px 0px 0px;
+    background-position: 0% 99%;
+}
+.bg-minniefondo {
+    background-image: url(../imagenes_juego/El%20D%C3%ADa%20Despues%20Minnie%20Stage.png);
+    color: #FFFFFF;
+    text-shadow: 0px 7px 8px #000000;
+    background-size: cover;
+    background-position: 0 87%;
+}
+
+
+.texto-blanco-derecha {
+    font-family: comfortaa;
+    font-style: normal;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 21px;
+    text-align: right;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    text-shadow: 8px 2px 7px #000000;
+}
+
+
+
+.bg-blackyoscuro {
+    background-color: #000000;
+}
